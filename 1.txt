@@ -1,0 +1,7 @@
+Grid: CSS Grid Layout, is a two-dimensional grid-based layout system with rows and columns, making it easier to design web pages without having to use floats and positioning. Like tables, grid layout allow us to align elements into columns and rows.
+
+Flexbox: The CSS Flexbox offers a one-dimensional layout. It is helpful in allocating and aligning the space among items in a container (made of grids). It works with all kinds of display devices and screen sizes.
+
+I might be use Flexbox when I want to align things in only one axis like header, nav menus, footer. Flexbox is good when item size are not same.
+
+I might be use Grid when I want to make more complex layout like outer design of website, gallery and good thing is that it works with both row and columns.
